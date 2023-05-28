@@ -22,11 +22,11 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="240" />
 
-### Hi, I'm [Levent KOYBASI](https://leventkoybasi.me/), a passionate front-end web developer with an engineering degree. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.
+#### Hi, I'm [Levent KOYBASI](https://leventkoybasi.me/), a passionate front-end web developer with an engineering degree. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.
 
 ### Constantly improving myself has become a way of life. I aim to stay up to date with new articles and new training.
 
-### -   💬 ask me about anything, i am happy to help [email](mailto:leventkoybasi@hotmail.com);
+#### -   💬 ask me about anything, i am happy to help [email](mailto:leventkoybasi@hotmail.com);
 
 ## **languages and tools:**
 ## <br/>

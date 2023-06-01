@@ -28,7 +28,7 @@
 
 #### Constantly improving myself has become a way of life. I aim to stay up to date with new articles and new training.
 
-##### -   💬 ask me about anything, i am happy to help [email](mailto:leventkoybasi@hotmail.com);
+##### -   💬 ask me about anything, i am happy to help [email](mailto:leventkoybasi@hotmail.com)
 
 ### **languages and tools:**
 ### <br/>

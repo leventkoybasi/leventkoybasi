@@ -21,7 +21,7 @@
 ### <br/>
 #### Hi, 
 
-#### I'm [Levent KOYBASI](https://leventkoybasi.me/), a passionate front-end web developer with an engineering degree. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.
+#### I'm [Levent KOYBASI](https://leventkoybasi.github.io/), a passionate front-end web developer with an engineering degree. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.
 
 #### Constantly improving myself has become a way of life. I aim to stay up to date with new articles and new training.
 

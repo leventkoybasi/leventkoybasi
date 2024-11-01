@@ -1,20 +1,6 @@
 # Levent KOYBASI
 <br>
 
-<a href="https://www.instagram.com/leventkoybasi/">
-<img align="left" alt="Levent's Instagram" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Instagram.svg" />
-</a>
-<a href="https://discord.gg/Lacrimossa#5626">
-<img align="left" alt="Levent's Discord" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Discord.svg" />
-</a>
-<a href="https://twitter.com/leventkoybasi">
-<img align="left" alt="Levent | Twitter" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/leventkoybasi/">
-<img align="left" alt="Levent's Linkedin" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" />
-</a>
-
-### <br/>
 #### Hi, 
 
 #### I'm [Levent KOYBASI](https://leventkoybasi.github.io/), a passionate front-end web developer with an engineering degree. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.

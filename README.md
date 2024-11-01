@@ -1,7 +1,4 @@
-# Levent KOYBASI
-<br>
-
-#### Hi, 
+#### hey, 
 
 #### I'm [Levent KOYBASI](https://leventkoybasi.github.io/), a passionate front-end web developer with an engineering degree. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.
 

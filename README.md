@@ -15,10 +15,6 @@
 </a>
 
 ### <br/>
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="300" />
-
-### <br/>
 #### Hi, 
 
 #### I'm [Levent KOYBASI](https://leventkoybasi.github.io/), a passionate front-end web developer with an engineering degree. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.

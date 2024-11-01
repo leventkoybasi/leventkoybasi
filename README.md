@@ -6,8 +6,8 @@
 
 #### -   💬 ask me about anything, i am happy to help [email](mailto:leventkoybasi@hotmail.com)
 
-#### **languages and tools:**
-##### <br/>
+#### -   **languages and tools:**
+<br/>
 <code><a href="https://react.dev/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg" alt="React" title="React"></a></code>
 <code><a href="https://redux.js.org/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Redux.svg " alt="Redux" title="Redux"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg" alt="JavaScript" title="JavaScript"></a></code>
